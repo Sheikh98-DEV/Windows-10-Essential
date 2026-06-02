@@ -1,92 +1,122 @@
 <div align="center">
 
-# 🚀 Windows 10 Essential
+# ⚡ Windows 10 Essential
 
-### The Lightest Windows 10 Experience Possible
+### Bare-Metal Windows 10 Experience
 
-**2.5 GB ISO** • **5 GB Installed Size** • **~600 MB RAM Usage** • **0-1% CPU Idle**
+**2.5 GB ISO** • **5 GB Installed Size** • **~600 MB RAM Idle** • **0-1% CPU Usage**
 
-A heavily stripped and optimized Windows 10 build focused entirely on performance, responsiveness, and minimal resource consumption.
+A highly stripped-down Windows 10 build designed for users who want maximum performance and minimum overhead.
 
 </div>
 
 ---
 
-## ⚡ Overview
+## 🚀 What Is Windows 10 Essential?
 
-Windows 10 Essential is designed for users who want a truly lightweight operating system without the unnecessary overhead of modern Windows installations.
+Windows 10 Essential is not just another debloated Windows build.
 
-Most built-in applications, telemetry components, background services, and consumer-oriented features have been removed to create a clean, fast, and efficient environment.
+It is a heavily minimized version of Windows 10 where most non-essential components, services, applications, and Microsoft integrations have been removed to create an operating system focused entirely on speed, efficiency, and low resource consumption.
 
-The result is a Windows installation that feels incredibly responsive even on older hardware.
+The goal is simple:
 
----
-
-## 📊 Performance
-
-| Metric              | Value            |
-| ------------------- | ---------------- |
-| ISO Size            | **~2.5 GB**      |
-| Installed Size      | **~5 GB**        |
-| Idle RAM Usage      | **~600 MB**      |
-| Idle CPU Usage      | **0-1%**         |
-| Boot Speed          | ⚡ Extremely Fast |
-| Background Activity | ✅ Minimal        |
+> Give the user a clean operating system and nothing more.
 
 ---
 
-## ✨ Features
+## 📈 Performance
 
-* 🚀 Extremely lightweight
-* 🧹 Debloated and optimized
-* 💾 Minimal storage usage
-* 🧠 Low RAM consumption
-* ⚡ Near-zero idle CPU usage
-* 🎮 Great for gaming
-* 💻 Excellent for low-end hardware
-* 🖥️ Perfect for virtual machines
-* 🔧 Ideal for power users
-* 🔒 Reduced telemetry and background processes
+| Metric               | Value             |
+| -------------------- | ----------------- |
+| ISO Size             | **~2.5 GB**       |
+| Installed Size       | **~5 GB**         |
+| RAM Usage (Idle)     | **~600 MB**       |
+| CPU Usage (Idle)     | **0-1%**          |
+| Background Processes | **Minimal**       |
+| Storage Footprint    | **Extremely Low** |
 
 ---
 
-## 🗑️ Removed Components
+## 🔥 Why This Build?
 
-This build removes many Windows components that are considered unnecessary for a minimal installation.
+Modern Windows installations include dozens of services, applications, telemetry systems, cloud integrations, update mechanisms, and background processes that many users never use.
 
-### Removed Examples
+Windows 10 Essential removes that overhead and provides:
+
+* Faster startup
+* Lower RAM usage
+* Reduced disk activity
+* Lower CPU consumption
+* Better responsiveness
+* Cleaner user experience
+* More available resources for applications and games
+
+---
+
+## ✂️ Major Components Removed
+
+This build removes a large number of Windows features and Microsoft services.
+
+### Security & Update
 
 * Microsoft Defender
-* Microsoft Store
 * Windows Update
-* Telemetry Services
-* Consumer Experience Features
-* Suggested Apps
-* Microsoft Bloatware
-* Background Tracking Services
-* Various Optional Windows Packages
+* SmartScreen Components
+* Security Center Integrations
 
-The goal is to provide a clean operating system with only the essentials required to run Windows.
+### Microsoft Ecosystem
+
+* Microsoft Store
+* OneDrive
+* Microsoft Consumer Experience
+* Cloud Synchronization Components
+
+### Applications
+
+* Xbox Components
+* Cortana
+* Edge Related Components
+* UWP Applications
+* Microsoft Preinstalled Apps
+* Store Dependencies
+
+### Telemetry & Tracking
+
+* Telemetry Services
+* Data Collection Components
+* Feedback Services
+* Diagnostic Tracking
+
+### Optional Features
+
+* Various Legacy Components
+* Unused Background Services
+* Unnecessary Scheduled Tasks
+* Additional Windows Packages
 
 ---
 
-## 🎯 Who Is This For?
+## 🎮 Perfect For
 
 ### Gamers
 
-Get the lowest possible background resource usage and maximize available system resources.
+Maximize available hardware resources and reduce background activity.
+
+### Virtual Machines
+
+Create ultra-lightweight Windows environments with minimal storage requirements.
 
 ### Developers
 
-Create lightweight testing environments and virtual machines.
+Fast disposable testing environments with minimal overhead.
 
 ### Power Users
 
-Enjoy a Windows installation without unnecessary services and restrictions.
+Users who prefer full control over their systems without Microsoft's ecosystem.
 
 ### Older Hardware
 
-Bring new life to low-end PCs, laptops, and virtualized environments.
+Bring aging systems back to life with dramatically lower resource requirements.
 
 ---
 
@@ -94,26 +124,43 @@ Bring new life to low-end PCs, laptops, and virtualized environments.
 
 Windows 10 Essential is intended for advanced users.
 
-Many Microsoft services and features have been removed to achieve maximum performance and minimal resource usage.
+Many Microsoft features and services have been intentionally removed.
 
-If you rely on Microsoft Store apps, Windows Update, Defender, or other built-in Microsoft components, this build may not be suitable for your workflow.
+If your workflow depends on:
+
+* Windows Update
+* Microsoft Store
+* Microsoft Defender
+* Xbox Services
+* OneDrive
+* Microsoft Apps
+
+then this build may not be suitable for you.
+
+This project prioritizes:
+
+**Performance > Features**
 
 ---
 
-## 🔥 Why Try It?
+## 🏁 The Result
 
-Because modern Windows doesn't need to consume several gigabytes of RAM just to sit idle.
+A Windows 10 installation that occupies around **5 GB of disk space**, consumes approximately **600 MB of RAM at idle**, and keeps CPU utilization close to **0%** when not under load.
 
-Windows 10 Essential demonstrates how fast and responsive Windows can feel when almost everything unnecessary is removed.
+No unnecessary services.
 
-> Install it. Test it. Push it to its limits.
+No background noise.
+
+No bloat.
+
+Just Windows.
 
 ---
 
 <div align="center">
 
-### ⭐ If you like this project, consider starring the repository.
+### ⭐ Star the repository if you enjoy ultra-lightweight Windows builds
 
-**Performance First. Everything Else Second.**
+**Performance First. Everything Else Removed.**
 
 </div>
