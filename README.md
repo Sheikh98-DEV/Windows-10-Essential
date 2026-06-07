@@ -35,7 +35,7 @@ The goal is simple:
 | Background Processes | **Minimal**       |
 | Storage Footprint    | **Extremely Low** |
 
-<img width="1724" height="923" alt="image" src="https://github.com/user-attachments/assets/c5408e5e-d35d-4095-924a-4044d604a1a9" />
+<img width="1072" height="574" alt="image" src="https://github.com/user-attachments/assets/bdf53cb9-1c29-4ddd-8655-7be3be7d2050" />
 
 ---
 
